@@ -71,6 +71,4 @@ git push -u origin dev
 * Use clear and meaningful commit messages.
 * Work on separate branches for new features or fixes and merge only after testing.
 
----
----
 
