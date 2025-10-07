@@ -72,11 +72,5 @@ git push -u origin dev
 * Work on separate branches for new features or fixes and merge only after testing.
 
 ---
-
-**Author:** [Chaitanya Kiran](https://github.com/ChaitanyaKiran14)
-**Repository:** [redis-pubsub](https://github.com/ChaitanyaKiran14/redis-pubsub)
-
-```
-
 ---
 
