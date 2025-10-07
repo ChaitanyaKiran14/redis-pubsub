@@ -1,5 +1,3 @@
----
-
 ````markdown
 # Git Setup and Workflow Guide
 
