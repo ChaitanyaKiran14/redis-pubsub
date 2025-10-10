@@ -71,11 +71,13 @@ git push -u origin dev
 ## Running Docker
 ```bash
 
-Let’s start redis locally and start using it as a DB
+#Let’s start redis locally and start using it as a DB
 docker run --name my-redis -d -p 6379:6379 redis
-Connecting to your container
+
+#Connecting to your container
 docker exec -it container_id /bin/bash
-Connecting to the redis cli
+
+#Connecting to the redis cli
 redis-cli
 
 ```
