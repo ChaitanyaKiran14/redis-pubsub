@@ -75,7 +75,7 @@ git push -u origin dev
 docker run --name my-redis -d -p 6379:6379 redis
 
 #Connecting to your container
-docker exec -it container_id /bin/bash
+docker exec -it container_id bash
 
 #Connecting to the redis cli
 redis-cli
